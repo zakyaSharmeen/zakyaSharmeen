@@ -42,13 +42,7 @@
 </p>
 ---
 
-## 🚀 Featured Projects
-> *(Pin these repositories on your profile for maximum impact)*
 
-- **Project Name** – Short, clear description of what it does  
-- **Project Name** – Highlight the tech and problem solved  
-
----
 
 ## 🌐 Connect With Me
 
