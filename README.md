@@ -65,7 +65,8 @@
 
 <!-- Footer GIF (subtle & professional) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZsbW9mNHl1cWg5aTRnYW93dXlpYzB2YjRra2ZzZDVjY2ZzYjRrMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R0cGx3aXN2d2Nyd3FtaXZhZHR6M3Z6eGN2ZThkNnFzMTRkZTRxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
+
 
 <p align="center"><i>“Code with clarity. Build with purpose.”</i></p>
