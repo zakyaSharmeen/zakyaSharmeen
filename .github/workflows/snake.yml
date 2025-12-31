@@ -12,7 +12,8 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: zakya-sharmeen
+          github_user_name: zakyaSharmeen
+
           outputs: |
             dist/github-contribution-grid-snake.svg
 
