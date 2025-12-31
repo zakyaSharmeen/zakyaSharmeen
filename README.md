@@ -47,10 +47,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/zakya-sharmeen" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="zakyasharmeen@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
