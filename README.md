@@ -46,10 +46,11 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/zakya-sharmeen" target="_blank">
+  <a href="https://www.linkedin.com/in/zakya-sharmeen" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:zakyasharmeen@gmail.com" target="_blank">
+
+  <a href="mailto:zakyasharmeen@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
