@@ -29,7 +29,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,html,css" />
 </p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,git&perline=3" />
 
 
 ### Frameworks & Tools
@@ -37,7 +36,17 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" />
 </p>
 
----
+---experiment---
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,typescript" />
+</p>
+
+<h3 align="center">Frameworks & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,git,github,vscode" />
+</p>
+<!-- ------------------------- -->
 
 ## 📈 GitHub Stats
 
