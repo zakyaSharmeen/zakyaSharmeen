@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=6FA4FC&center=true&vCenter=true&width=500&lines=Building+clean+and+scalable+solutions;Passionate+about+learning+and+growth;Turning+ideas+into+reality" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi+I%27m+Abdul+%F0%9F%91%8B;Learning+React+Every+Day;Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+project;Explore+the+GitHub+repository+below;Feel+free+to+fork+and+contribute+%F0%9F%9A%80" />
 </p>
 
 
