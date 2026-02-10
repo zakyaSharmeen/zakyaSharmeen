@@ -5,6 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=6FA4FC&center=true&vCenter=true&width=500&lines=Building+clean+and+scalable+solutions;Passionate+about+learning+and+growth;Turning+ideas+into+reality" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=FFD93D&center=true&vCenter=true&width=500&lines=Building+clean+and+scalable+solutions;Passionate+about+learning+and+growth;Turning+ideas+into+reality" />
+</p>
+
+
 
 
 
