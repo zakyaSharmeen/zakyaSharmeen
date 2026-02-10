@@ -29,6 +29,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,html,css" />
 </p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,git&perline=3" />
+
 
 ### Frameworks & Tools
 <p>
